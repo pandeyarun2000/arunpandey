@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">
     Portfolio Website
 </h1>
@@ -25,3 +26,7 @@ npm run dev
 ## Contributing
 
 If you find any bugs or have any suggestions, feel free to open an issue or a pull request. I'm always open to new ideas and improvements!
+=======
+# test
+webpage
+>>>>>>> f514b1ee3c359fdff64c81c41083405641172c22
