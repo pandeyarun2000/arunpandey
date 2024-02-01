@@ -28,6 +28,25 @@ function navLinks() {
 				</Link>
 			</li>
 
+			<li className="scroll-link my-1 sm:my-0 sm:mr-4">
+				<Link
+					to="projects"
+					smooth={true}
+					offset={-120}
+					duration={500}
+					onClick={() => {
+						const navbar = document.querySelector('#toggle-navbar');
+						if (navbar) {
+							navbar.classList.add('hidden');
+						}
+					}}
+					className="group transition duration-300 hover:cursor-pointer"
+				>
+					Experience
+					<span className="block h-[1px] max-w-0 bg-gray-700 transition-all duration-500 group-hover:max-w-full dark:bg-white"></span>
+				</Link>
+			</li>
+
 			<li className="scroll-link sm:my-0 sm:mr-4">
 				<Link
 					to="education"
@@ -66,24 +85,7 @@ function navLinks() {
 				</Link>
 			</li>
 
-			<li className="scroll-link my-1 sm:my-0 sm:mr-4">
-				<Link
-					to="projects"
-					smooth={true}
-					offset={-120}
-					duration={500}
-					onClick={() => {
-						const navbar = document.querySelector('#toggle-navbar');
-						if (navbar) {
-							navbar.classList.add('hidden');
-						}
-					}}
-					className="group transition duration-300 hover:cursor-pointer"
-				>
-					Experience
-					<span className="block h-[1px] max-w-0 bg-gray-700 transition-all duration-500 group-hover:max-w-full dark:bg-white"></span>
-				</Link>
-			</li>
+			
 
 			<li className="scroll-link my-1 sm:my-0 sm:mr-4">
 				<button
