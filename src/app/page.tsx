@@ -45,9 +45,10 @@ export default function Home() {
 				{/* Main Section */}
 				<section>
 					<AboutMe />
+					<Projects />
 					<Education />
 					<ToolBox />
-					<Projects />
+					
 				</section>
 
 				{/* Footer/Contact Me Section */}
