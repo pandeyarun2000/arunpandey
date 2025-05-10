@@ -19,7 +19,7 @@ export default function AboutMe() {
 						className="mb-10 w-full max-w-[280px] rounded-full border-4 border-cyan-500 grayscale filter transition duration-300 hover:filter-none dark:border-cyan-700 md:mb-0"
 					/>
 					<p className="flex w-full max-w-2xl items-center text-center text-base md:mb-0 md:ml-10 md:text-lg">
-						{`Bringing over 25 years of management consulting expertise, I am a seasoned professional with a track record of success in diverse industries. My journey encompasses leadership roles in driving large-scale initiatives and spearheading transformation programs for renowned organizations and top-tier consulting firms. As a dedicated consultant, I am passionate about delivering impactful solutions and leveraging my extensive experience to navigate the dynamic landscape of finance, risk management & strategic sourcing. Let's embark on the journey of excellence together.`}
+						{`On a mission to make real estate smarter, more efficient, and investor-ready through meaningful technology.`}
 					</p>
 				</div>
 			</div>
