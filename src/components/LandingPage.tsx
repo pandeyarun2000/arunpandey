@@ -14,7 +14,7 @@ export default function LandingPage() {
 		setMounted(true);
 	}, []);
 
-	const titles = ['Passionate Consultant', 'Versatile Strategist', 'Strategic Sourcing Expert', 'Financial Architect'];
+	const titles = ['Entrepreneur','Founder','Passionate Consultant', 'Versatile Strategist','Financial Architect'];
 	const [titleIndex, setTitleIndex] = useState(0);
 
 	useEffect(() => {
