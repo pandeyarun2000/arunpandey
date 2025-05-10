@@ -19,7 +19,7 @@ export default function AboutMe() {
 						className="mb-10 w-full max-w-[280px] rounded-full border-4 border-cyan-500 grayscale filter transition duration-300 hover:filter-none dark:border-cyan-700 md:mb-0"
 					/>
 					<p className="flex w-full max-w-2xl items-center text-center text-base md:mb-0 md:ml-10 md:text-lg">
-						{`On a mission to make real estate smarter, more efficient, and investor-ready through meaningful technology.`}
+						{`I’m an entrepreneur and founder driven by a passion to revolutionize the real estate industry. With over 25 years of experience in consulting, technology, and strategic leadership, I’ve worked at the forefront of change, helping organizations navigate complexity and transform with purpose. Today, I’m using my expertise to build solutions that make real estate smarter, more efficient, and future-ready. I believe in shaping the future, not following it, and I’m here to lead the way for those who are ready to innovate, collaborate, and make a lasting impact.`}
 					</p>
 				</div>
 			</div>
